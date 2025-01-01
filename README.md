@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 Особенности
-<div style="background-color: #f0f8ff; padding: 10px; border-radius: 5px;">
+<div style="background-color:rgb(2, 134, 250); padding: 10px; border-radius: 5px;">
 - Легкий в использовании 🌟  
 - Высокая производительность ⚡  
 - Полностью кросс-платформенный 🖥️📱  
